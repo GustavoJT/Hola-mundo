@@ -1,0 +1,7 @@
+estructura
+
+html
+head 
+body 
+footer 
+emet  revisar para comandos rapidos de html
